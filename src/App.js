@@ -6,7 +6,7 @@ import {
   NavLink
 } from 'react-router-dom'
 
-const a = 3
+const a = 4
 
 // eslint-disable-next-line
 import logo from './logo.svg';
@@ -22,6 +22,8 @@ const todoList = [
   { id: randomId(), title: '睡觉' },
   { id: randomId(), title: '打豆豆' }
 ]
+
+const list = [1,2,3]
 
 function randomId() {
   return Math.floor(Math.random() * 10000000)
