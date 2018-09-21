@@ -18,7 +18,7 @@ import './css/reset.css'
 
 
 const todoList = [
-  { id: randomId(), title: '吃饭' },
+  { id: randomId(), title: '吃饭12' },
   { id: randomId(), title: '睡觉' },
   { id: randomId(), title: '打豆豆' }
 ]
