@@ -6,6 +6,8 @@ import {
   NavLink
 } from 'react-router-dom'
 
+const a = 1
+
 // eslint-disable-next-line
 import logo from './logo.svg';
 import './App.css';
