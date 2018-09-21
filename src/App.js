@@ -7,6 +7,7 @@ import {
 } from 'react-router-dom'
 
 const a = 2
+const b = 'hello'
 
 // eslint-disable-next-line
 import logo from './logo.svg';
