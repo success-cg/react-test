@@ -14,6 +14,13 @@ import TodoItem from './TodoItem'
 import 'normalize.css'
 import './css/reset.css'
 
+
+const todoList = [
+  { id: randomId(), title: '吃饭' },
+  { id: randomId(), title: '睡觉' },
+  { id: randomId(), title: '打豆豆' }
+]
+
 function randomId() {
   return Math.floor(Math.random() * 10000000)
 }
